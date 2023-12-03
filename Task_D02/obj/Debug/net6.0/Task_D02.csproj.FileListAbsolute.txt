@@ -1,0 +1,15 @@
+C:\Users\Георгий\Videos\Георгий\C#_repit\Seminar_1\Task_D02\obj\Debug\net6.0\Task_D02.csproj.AssemblyReference.cache
+C:\Users\Георгий\Videos\Георгий\C#_repit\Seminar_1\Task_D02\obj\Debug\net6.0\Task_D02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Георгий\Videos\Георгий\C#_repit\Seminar_1\Task_D02\obj\Debug\net6.0\Task_D02.AssemblyInfoInputs.cache
+C:\Users\Георгий\Videos\Георгий\C#_repit\Seminar_1\Task_D02\obj\Debug\net6.0\Task_D02.AssemblyInfo.cs
+C:\Users\Георгий\Videos\Георгий\C#_repit\Seminar_1\Task_D02\obj\Debug\net6.0\Task_D02.csproj.CoreCompileInputs.cache
+C:\Users\Георгий\Videos\Георгий\C#_repit\Seminar_1\Task_D02\bin\Debug\net6.0\Task_D02.exe
+C:\Users\Георгий\Videos\Георгий\C#_repit\Seminar_1\Task_D02\bin\Debug\net6.0\Task_D02.deps.json
+C:\Users\Георгий\Videos\Георгий\C#_repit\Seminar_1\Task_D02\bin\Debug\net6.0\Task_D02.runtimeconfig.json
+C:\Users\Георгий\Videos\Георгий\C#_repit\Seminar_1\Task_D02\bin\Debug\net6.0\Task_D02.dll
+C:\Users\Георгий\Videos\Георгий\C#_repit\Seminar_1\Task_D02\bin\Debug\net6.0\Task_D02.pdb
+C:\Users\Георгий\Videos\Георгий\C#_repit\Seminar_1\Task_D02\obj\Debug\net6.0\Task_D02.dll
+C:\Users\Георгий\Videos\Георгий\C#_repit\Seminar_1\Task_D02\obj\Debug\net6.0\refint\Task_D02.dll
+C:\Users\Георгий\Videos\Георгий\C#_repit\Seminar_1\Task_D02\obj\Debug\net6.0\Task_D02.pdb
+C:\Users\Георгий\Videos\Георгий\C#_repit\Seminar_1\Task_D02\obj\Debug\net6.0\Task_D02.genruntimeconfig.cache
+C:\Users\Георгий\Videos\Георгий\C#_repit\Seminar_1\Task_D02\obj\Debug\net6.0\ref\Task_D02.dll
